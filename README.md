@@ -1,5 +1,5 @@
-# Elm Recipes
-A collection of Elm programming language solutions to common problems
+# FACECOIN
+This is a ICO example code, have fun
 
 This is written in elm and with PWA features support
 * service worker
