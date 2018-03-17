@@ -1,0 +1,21 @@
+{
+  "name": "Elm_Recipes",
+  "version": "1.0.0",
+  "description": "A collection of Elm programming language solutions to common problems",
+  "main": "main.js",
+  "scripts": {
+    "compile": "elm-make src/Main.elm --output elm.js",
+    "watch": "elm-live src/Main.elm --output elm.js --pushstate --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meilab/Elm_Recipes"
+  },
+  "keywords": [
+    "Elm",
+    "Recipes"
+  ],
+  "author": "meilab",
+  "license": "MIT"
+}
+
