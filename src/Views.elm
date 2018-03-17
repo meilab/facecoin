@@ -80,7 +80,7 @@ homeHero srcUrl heroClass =
                 ]
                 [ text "White Paper" ]
             , a
-                [ href "content/whitepaper.md"
+                [ href "https://github.com/meilab/facecoin"
                 , class [ Cta ]
                 ]
                 [ text "GITHUB" ]

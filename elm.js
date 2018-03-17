@@ -18370,7 +18370,7 @@ var _meilab$meilab$Views$homeHero = F2(
 											_elm_lang$html$Html$a,
 											{
 												ctor: '::',
-												_0: _elm_lang$html$Html_Attributes$href('content/whitepaper.md'),
+												_0: _elm_lang$html$Html_Attributes$href('https://github.com/meilab/facecoin'),
 												_1: {
 													ctor: '::',
 													_0: _meilab$meilab$Views$class(
